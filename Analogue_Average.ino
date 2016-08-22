@@ -1,5 +1,7 @@
 // Analogie Average
 
+// Second comment added
+
 void setup() {
   // put your setup code here, to run once:
 
